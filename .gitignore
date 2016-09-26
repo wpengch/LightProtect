@@ -44,3 +44,4 @@ captures/
 # Keystore files
 *.jks
 /gradle/wrapper/gradle-wrapper.properties
+gradle
